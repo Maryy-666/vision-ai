@@ -1,0 +1,11 @@
+{
+  "part_description": "Steel metal component",
+  "inspection_description": "Detect scratches on the surface",
+  "defect_description": "Scratch",
+  "surface_type": "Reflective metal",
+  "material": "Steel",
+  "roi_description": "Outer surface",
+  "minimum_defect_size_mm": 0.2,
+  "field_of_view_width_mm": 200,
+  "required_pixels_per_defect": 4
+}

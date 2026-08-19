@@ -1,0 +1,1 @@
+{"expo":{"name":"Vision Agent","slug":"vision-agent-mobile","version":"1.0.0","orientation":"portrait","userInterfaceStyle":"dark","android":{"package":"com.visionagent.inspection"},"ios":{"bundleIdentifier":"com.visionagent.inspection"},"plugins":[["expo-camera",{"cameraPermission":"Kusur tespiti için kameranıza erişim gerekir."}]]}}
